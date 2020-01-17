@@ -6,7 +6,7 @@ blocks = [
         'prev_hash': None,
         'transactions': {
             'tx1': {
-                'username': 'unkown',
+                'username': 'unkown_tutor',
                 'msg': 'บริการรับจ้างสอบ. ได้ F ยินดีคืนเงิน...'
             },
             'tx2': {
@@ -21,7 +21,7 @@ blocks = [
         'prev_hash': None,
         'transactions': {
             'tx1': {
-                'username': 'yedped',
+                'username': 'กระเพราะปลาการกุศล',
                 'msg': 'ขออนุญาติแอดมิน.. ขายกระเพราะปลาถุงละ 15 บาท อ่านต่อ...'
             }
         }
